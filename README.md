@@ -4,7 +4,7 @@ A simple CNN for MNIST digit classification, trained from scratch.
 
 ## Quick Deploy
 
-Run the full pipeline in Docker: `docker run -it bniladridas/cnn-mnist:latest`
+Run the full pipeline in Docker: `docker run -it harpertoken/cnn-mnist:latest`
 
 ## Setup
 
