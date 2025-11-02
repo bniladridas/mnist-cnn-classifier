@@ -29,7 +29,7 @@ if [ "$MODE" != "docker" ]; then
 
     # Install dependencies
     echo "Installing dependencies..."
-    pip install -r requirements.txt
+    pip install --quiet -r requirements.txt
 else
     echo "Running in Docker mode..."
 fi
