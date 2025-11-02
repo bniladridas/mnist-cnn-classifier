@@ -2,6 +2,10 @@
 
 A simple CNN for MNIST digit classification, trained from scratch.
 
+## Quick Deploy
+
+Run the full pipeline in Docker: `docker run -it bniladridas/cnn-mnist:latest`
+
 ## Setup
 
 1. Create virtual environment: `python3 -m venv venv`
